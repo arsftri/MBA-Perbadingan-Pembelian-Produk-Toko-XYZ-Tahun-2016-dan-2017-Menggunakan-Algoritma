@@ -1,4 +1,4 @@
-# MBA-Perbadingan-Pembelian-Produk-Toko-XYZ-Tahun-2016-dan-2017-Menggunakan-Algoritma
+# MBA-Perbadingan-Pembelian-Produk-Toko-XYZ-Tahun-2016-dan-2017-Menggunakan-Algoritma Apriori
 
 **Dataset:** https://www.kaggle.com/code/rahmi21/02-association-rule-mining-on-real-data/input
 
